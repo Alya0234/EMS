@@ -9,7 +9,7 @@ function App() {
     salary: "",
   });
 
-  const API_URL = "http://localhost:5177/employees";
+  const API_URL = "https://ems-rmnj.onrender.com/employees";
 
   // FETCH EMPLOYEES
 
